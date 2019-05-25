@@ -1,11 +1,4 @@
-<<<<<<< HEAD
-# automate-the-boring-stuff
-Solutions to Al Sweigart's Automate the Boring Stuff
-=======
-# Automate the Boring Stuff
-Solutions to Al Sweigart's [Automate the Boring Stuff]
+# Solutions to Automate the Boring Stuff by Al Sweigart
+=====================
 
-
-
-[Automate the Boring Stuff]: http://automatetheboringstuff.com/
->>>>>>> Test
+These are my solutions to Al Sweigart's book, [Automate the Boring Stuff](http://automatetheboringstuff.com/). 
